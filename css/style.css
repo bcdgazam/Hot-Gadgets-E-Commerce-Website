@@ -60,6 +60,9 @@ button {
     background-position: bottom left;
     height: 570px;
     background-size: 12%;
+}
+
+.default-margin {
     margin-bottom: 80px;
 }
 
@@ -68,6 +71,10 @@ button {
 }
 
 .smart-phone-area a{
+    text-decoration: none;
+}
+
+.laptop-area a{
     text-decoration: none;
 }
 
@@ -96,4 +103,5 @@ button {
 .card-text {
     font-size: 16;
     font-weight: lighter;
+    line-height: 30px;
 }
