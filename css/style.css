@@ -105,3 +105,15 @@ button {
     font-weight: lighter;
     line-height: 30px;
 }
+
+
+.categories-title{
+    border-bottom: 7px solid transparent;
+    border-image: linear-gradient(to right, #FFD019, #FF9C35) 1;
+    border-radius: 10px;
+    background-clip: padding-box;
+    width: 90px;
+    justify-content: end;
+    display: flex;
+    line-height: 40px;
+}
