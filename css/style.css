@@ -117,11 +117,3 @@ button {
     display: flex;
     line-height: 40px;
 }
-
-.cate-bag {
-    text-align: center;
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-    border: none;
-    padding: 70px;
-    border-radius: 15px 50px;
-}
